@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """0-simple_helper_function module 
-return a tuple of size two containing a start index and an end index."""
+   return a tuple of size two containing a start index and an end index."""
 
 
 def index_range(page: int, page_size: int) -> tuple:
